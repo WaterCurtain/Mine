@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\GongWei\Desktop\programing\C\扫雷\Mine_Game\Mine_Game\main.cpp(62,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Mine_Game.vcxproj -> C:\Users\GongWei\Desktop\programing\C\扫雷\Mine_Game\Debug\Mine_Game.exe
